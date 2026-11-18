@@ -1,0 +1,22 @@
+
+# Compiled files
+*.exe
+*.o
+*.obj
+*.dll
+
+# Election data - do not publish
+candidates.txt
+voters.txt
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Build folders
+build/
+dist/
